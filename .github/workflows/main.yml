@@ -1,5 +1,5 @@
 name: Assignment1 Deploy to ECR
-#1
+#12
 on: 
   push:
     branches: [ main ]
